@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+input, select {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background: #3498db;
+    color: white;
+    border: none;
+}
+
+li {
+    margin: 5px 0;
+}
